@@ -1,0 +1,27 @@
+Description
+
+User Roles:
+Admin: Manages the entire system, including inventory, sales, expenses, and reports.
+Cashier: Focuses on sales transactions, payments, and handling returns.
+Warehouse Manager: Oversees stock levels, manages warehouses, and updates inventory.
+
+Admin Workflows:
+Access the Admin Dashboard to manage inventory, process sales, track expenses, and generate reports.
+
+Cashier Workflows:
+Use the Cashier Dashboard for handling sales transactions, generating invoices, and managing returns.
+
+Warehouse Manager Workflows:
+Access the Warehouse Dashboard to manage stock levels, handle stock alerts, and update inventory.
+
+Inventory Management:
+Add or update products, assign them to warehouses, and monitor stock alerts.
+
+Sales and Payments:
+Create sales orders, process payments, handle returns, and generate invoices.
+
+Expense Management:
+Record expenses with categories and generate detailed expense reports.
+
+Reports and Analytics:
+Generate warehouse, sales, expense, and top products reports for actionable insights.
